@@ -1,0 +1,23 @@
+body{
+  color: white;
+  background-color: green;
+}
+
+h1{
+  text-transform: capitalize;
+}
+.p-pertama{
+  text-align: justify;
+}
+.p-kedua{
+  text-decoration: underline;
+}
+.p-ketiga{
+  text-align: center;
+}
+.p-keempat{
+  text-align: center;
+}
+.p-lima{
+  text-decoration: line-through;
+}
